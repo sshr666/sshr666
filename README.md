@@ -9,15 +9,14 @@
 ## 🚀 What I’m working on
 - **AI Resume Screener** – NLP pipeline to match resumes with job descriptions  
 - **Predictive Maintenance System** – Time-series model for early failure detection using NASA dataset  
-- **Customer Support Chatbot** – RAG-based chatbot for domain-specific FAQ answering  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C++  
+- **Languages:** Python, C, C++, HTML/CSS, JavaScript, Verilog
 - **ML/DL:** Scikit-learn, PyTorch, TensorFlow  
 - **Data:** Pandas, NumPy, SQL, Matplotlib, Seaborn  
-- **NLP/LLMs:** HuggingFace, LangChain, FAISS  
+- **NLP/LLMs:** HuggingFace, LangChain  
 - **Deployment:** Streamlit, Flask, FastAPI, Docker  
 
 ---
