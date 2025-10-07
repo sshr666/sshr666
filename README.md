@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shreya Sengupta  
+# I'm Shreya Sengupta  
 
 🎓 2nd year Engineering student @ BITS Pilani Goa  
 🤖 Aspiring AI/ML Engineer | Neural Networks Enthusiast  
@@ -22,12 +22,12 @@
 ---
 
 ## 📂 Repositories
-- [Repo-ease](https://github.com/sshr666/Repo-ease) – Automated repo change monitoring & summarization
+- [Repo-ease](https://github.com/sshr666/Repo-ease) – Automated repository change monitoring & summarization
   - Hackathon Based Proect
   - Made a AI based SAAS model bridging communication between departments, namely the IT, legal and financial departments with the shareholders.
   - Analyzes financial feasebility of an update, along with licensing, and a brief summary with a user friendly interface. 
 - [Inventory Management](https://github.com/sshr666/Inventory_management) – Large-scale collabortative inventory tracking system.
-  - Maintains records of all college events' inventory.
+  - Maintains records of all of the campus Audio-Visual Unit's inventory.
   - Used full-stack app-development to design the same.
 - [Hackathon Sample](https://github.com/sshr666/Sample-for-hackathon) – Mock project for quick prototyping  
 
