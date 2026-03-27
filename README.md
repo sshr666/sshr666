@@ -1,7 +1,7 @@
 # I'm Shreya Sengupta  
 
 🎓 2nd year Engineering student @ BITS Pilani Goa  
-🤖 Aspiring AI/ML Engineer | Neural Networks Enthusiast  
+🤖 Aspiring AI/ML Engineer 
 💡 Passionate about solving industry problems with data & intelligence  
 
 ---
