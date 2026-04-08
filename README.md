@@ -36,7 +36,6 @@
 ## 🌱 Currently Learning
 - Advanced ML (XGBoost, LightGBM, Transformers)  
 - MLOps fundamentals (CI/CD, Docker, Cloud deployment)  
-- Generative AI (LLM fine-tuning, diffusion models)  
 
 ---
 
